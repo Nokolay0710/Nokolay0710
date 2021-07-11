@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nokolay0710
-- 👀 I’m interested in PHP, SQL.
-- 🌱 I’m currently learning PHP.
+- 👀 I’m interested in PHP, SQL, JS.
+- 🌱 I’m currently learning JS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
