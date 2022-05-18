@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Nokolay0710
 - 👀 I’m interested in C++.
 - 🌱 I’m currently learning C++.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 Nokolay0710/Nokolay0710 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
